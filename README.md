@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BAYMAX1011 but you can call me Calebe
+- 👋 I'm currebtly pursing software devleopment
+- 🌱 I'm expirimenting with Python and Java
+- 💞️ I’m looking to collaborate with other programmers on intresting projects
+- 📫 You can reach me @ calebepereiraba@gmail.com
+- 😄 I love to expiriment and look forword to exploring where computer programming will take me
+- ⚡ Fun fact: I am working on learning to speak my third language!
